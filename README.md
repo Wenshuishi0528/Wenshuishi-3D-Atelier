@@ -12,13 +12,23 @@
 
 </div>
 
-[![Y-20B 鲲鹏：蓝天中的运输机模型](works/y-20b/images/cover.jpg)](works/y-20b/README.md)
+[![我们的西山：校园整体鸟瞰，模型渲染](works/our-xishan/images/cover.jpg)](works/our-xishan/README.md)
 
 <p align="center">文水十作品 · 数字模型渲染</p>
 
 ## 作品
 
-### 001 · Y-20B 鲲鹏
+### 001 · 我们的西山
+
+**校园建筑 / 校园记忆 / Blender 外观重建 · v1.8**
+
+把记忆里的校园，重新建起来。从教学楼与操场，到校门、木廊和花园，对照照片与历史卫星影像，留住熟悉的空间与日常视角。
+
+[查看作品介绍与完整图集 →](works/our-xishan/README.md)
+
+### 002 · Y-20B 鲲鹏
+
+[![Y-20B 鲲鹏：蓝天中的运输机模型](works/y-20b/images/cover.jpg)](works/y-20b/README.md)
 
 **航空模型 / 1:300 / 数字模型与渲染展示**
 
@@ -26,7 +36,7 @@
 
 [查看作品介绍与完整图集 →](works/y-20b/README.md)
 
-### 002 · KJ-3000 空警-3000
+### 003 · KJ-3000 空警-3000
 
 **航空模型 / Aircraft model · 1:300 · 7821 构型 / Configuration · V4**
 
