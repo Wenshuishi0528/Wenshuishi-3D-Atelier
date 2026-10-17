@@ -26,6 +26,18 @@
 
 [查看作品介绍与完整图集 →](works/y-20b/README.md)
 
+### 002 · KJ-3000 空警-3000
+
+**航空模型 / Aircraft model · 1:300 · 7821 构型 / Configuration · V4**
+
+[![空警-3000 V4 前上方模型渲染 / KJ-3000 V4 model render](works/kj-3000/images/front-quarter.png)](works/kj-3000/README.md)
+
+从运输机基型延伸到预警机：圆形雷达罩、内倾支架、受油探管与尾部整流结构，共同形成新的整机轮廓。V4 进一步调整双腹鳍角度及支柱与机身的连接。
+
+A Y-20B-derived early warning aircraft model, shaped around its circular radome, inward-canted pylons, refueling probe and tail fairings. V4 refines the ventral-fin angles and pylon-to-fuselage connections.
+
+[查看中英文作品介绍与图集 / View the bilingual story and gallery →](works/kj-3000/README.md)
+
 ---
 
 ## 制作理念
