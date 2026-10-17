@@ -1,0 +1,16 @@
+# Public portfolio allowlist: documentation and raster display images only.
+*
+!/.gitignore
+!/README.md
+!/CHANGELOG.md
+!/NOTICE.md
+!/templates/
+!/templates/*.md
+!/works/
+!/works/**/
+!/works/**/*.md
+!/works/**/*.jpg
+!/works/**/*.jpeg
+!/works/**/*.png
+!/works/**/*.webp
+# Do not commit models, archives, local scripts, caches or internal reports.
