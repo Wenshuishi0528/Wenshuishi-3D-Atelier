@@ -48,6 +48,16 @@ A Y-20B-derived early warning aircraft model, shaped around its circular radome,
 
 [查看中英文作品介绍与图集 / View the bilingual story and gallery →](works/kj-3000/README.md)
 
+### 004 · 东方红一号
+
+[![东方红一号数字模型整体近景，实时渲染截图](works/dongfanghong-1/images/cover.png)](works/dongfanghong-1/README.md)
+
+**航天器模型 / Blender 建模 / 可展开天线与交互式 3D 展示 · V12**
+
+从多面球壳、环形腰带，到铭牌、传感器与四组可展开天线：对照历史照片逐步重建细节，再通过三维模拟软件近距离观察结构与动作。
+
+[查看作品介绍与截图 →](works/dongfanghong-1/README.md)
+
 ---
 
 ## 制作理念
